@@ -16,4 +16,10 @@
 #### 2 用命令git commit 把文件提交到仓库
 + git commit -m "wrote a readme file"
 
+### git status 命令可以让我们时刻掌握仓库当前的状态
++ git status
+
+### git diff 查看文件修改内容
++ git diff readme.txt
+
 [1]: https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001375840038939c291467cc7c747b1810aab2fb8863508000
